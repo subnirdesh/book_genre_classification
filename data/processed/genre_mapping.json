@@ -1,0 +1,10 @@
+{
+  "Biography": 0,
+  "Fantasy": 1,
+  "Fiction": 2,
+  "Horror": 3,
+  "Mystery": 4,
+  "Romance": 5,
+  "Science Fiction": 6,
+  "Self-Help": 7
+}
