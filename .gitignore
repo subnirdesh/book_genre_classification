@@ -5,4 +5,4 @@ __pycache__/
 .env
 .vscode/
 .ipynb_checkpoints/
-.DS_Store
+.DS_Storemodels/distilbert_genre/final_model/model.safetensors
