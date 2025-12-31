@@ -8,3 +8,4 @@ __pycache__/
 .DS_Storemodels/distilbert_genre/final_model/model.safetensors
 models/distilbert_genre/final_model/model.safetensors
 models/distilbert_genre/final_model/model.safetensors
+models/distilbert_genre/final_model/model.safetensors
