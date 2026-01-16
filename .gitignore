@@ -6,3 +6,5 @@ __pycache__/
 .vscode/
 .ipynb_checkpoints/
 .DS_Storemodels/distilbert_genre/final_model/model.safetensors
+models/*
+!models/.gitkeep
