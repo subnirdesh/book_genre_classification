@@ -1,11 +1,14 @@
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-.env
-.vscode/
-.ipynb_checkpoints/
-.DS_Storemodels/distilbert_genre/final_model/model.safetensors
-models/*
-!models/.gitkeep
+# Model checkpoints and results
+notebooks/results/
+models/
+results/
+*.safetensors
+*.pt
+optimizer.pt
+trainer_state.json
+rng_state.pth
+
+
+# OS files
 .DS_Store
+**/.DS_Store
